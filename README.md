@@ -1,6 +1,5 @@
-### Olá! Eu sou a Camilla Silva
+### Hi, I'm Camilla!
 
-- 🔭 Sou estudante do curso de Sistemas de Informação
-- 🌱 Atualmente buscando aprofundar meu conhecimento em desenvolvimento de software.
-- 😄 Pronouns: ela/dela
+- 👩‍💻 Front-end developer
+- 👩‍💻 Information systems student.
 
